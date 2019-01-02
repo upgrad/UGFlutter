@@ -1,0 +1,6 @@
+[submodule "sample_android"]
+	path = sample_android
+	url = git@github.com:upgrad/UGFlutterAndroidExample.git
+[submodule "sample_ios"]
+	path = sample_ios
+	url = git@github.com:upgrad/UGFlutterIOSExample.git
